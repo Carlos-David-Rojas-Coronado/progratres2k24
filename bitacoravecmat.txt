@@ -1,0 +1,29 @@
+commit b095a6bb5de60927e50de2feeefc6c1e88c59790
+Author: Esduardo Del Aguila <daguilae@yahoo.com>
+Date:   Fri Feb 2 10:56:22 2024 -0600
+
+    Agregando ejemplos de uso de vectores y matrices
+
+commit 2b14dda0cd8a6ffef8eb0a78d58b9d03a60320b2
+Author: Esduardo Del Aguila <daguilae@yahoo.com>
+Date:   Wed Jan 24 11:53:19 2024 -0600
+
+    Primer proyecto Progra III
+
+commit 7fb6e476e01216866227e496e8886ef0d29f4309
+Author: edelaguila <54811781+edelaguila@users.noreply.github.com>
+Date:   Mon Jan 22 11:52:33 2024 -0600
+
+    Update prueba1.txt
+
+commit aef07b1cd75b7366ffaafad5a4dbd47c7a0f4f78
+Author: Esduardo Del Aguila <daguilae@yahoo.com>
+Date:   Mon Jan 22 11:49:20 2024 -0600
+
+    Mis primeros archivos
+
+commit 39aca59abefd6d9b60c345a955040d6ceec05703
+Author: edelaguila <54811781+edelaguila@users.noreply.github.com>
+Date:   Fri Jan 19 11:39:58 2024 -0600
+
+    Initial commit
